@@ -38,7 +38,7 @@ No Microsoft tenant records, credentials or private review data are part of the 
 
 The separate Microsoft development environment demonstrated native human approval/rejection, revision blocking, duplicate protection, failed-write recovery and a reconciled Power BI snapshot.
 Generic plugin source is in microsoft-extension/. Live exports, private connection bindings, auth tools, signing keys and private run histories are absent. This directory is not a one-command reproducible tenant solution.
-The Microsoft proof uses one reviewer; production authorization, simultaneous retry stress and a second-environment import need additional validation. Power BI is a saved snapshot.
+The Microsoft proof uses one reviewer; production authorization, large-load concurrency and a second-environment import need additional validation. Four simultaneous native delivery submissions produced one decision and three AlreadyRecorded outcomes. Power BI is a saved snapshot.
 
 ## Attribution and limits
 Research context: Guedria and Dommermuth, A Taxonomy and Reference Architecture for AI-enabled Industrial Knowledge Management, ECKM 2026: https://doi.org/10.34190/eckm.27.2.5093 .

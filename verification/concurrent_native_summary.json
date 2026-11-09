@@ -1,0 +1,11 @@
+{
+  "verified_utc": "2026-11-09T13:26:09.363973+00:00",
+  "submission": "Four barrier-synchronized worker threads submitted distinct delivery records for one saved review request.",
+  "native_flow_outcomes": {
+    "Approved": 1,
+    "AlreadyRecorded": 3
+  },
+  "authoritative_decision_count": 1,
+  "authoritative_case_status": "Approved",
+  "limits": "Four concurrent submissions on one synthetic request; not large-load benchmarking or proof of arbitrary interleavings."
+}
