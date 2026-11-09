@@ -1,0 +1,12 @@
+{
+  "library": "three",
+  "version": "0.180.0",
+  "source": "https://github.com/mrdoob/three.js",
+  "license": "MIT",
+  "files": [
+    "three.module.min.js",
+    "three.core.min.js",
+    "OrbitControls.js"
+  ],
+  "note": "Copied unchanged from the existing installed package. No BMW application code or assets reused."
+}

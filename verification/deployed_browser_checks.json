@@ -1,0 +1,16 @@
+{
+  "paired_webgl_models": true,
+  "playback": true,
+  "procedure_change_blocks": true,
+  "permission_redaction": true,
+  "independent_bad_fix_failure": true,
+  "review_cannot_approve_failed_reference": true,
+  "adapt_review_execute": true,
+  "idempotent_capture": true,
+  "export_import_requires_new_review": true,
+  "late_response_cannot_replace_selected_case": true,
+  "assistant_boundary": true,
+  "real_campaign": true,
+  "mobile_no_overflow": true,
+  "js_errors": []
+}

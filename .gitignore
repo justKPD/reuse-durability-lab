@@ -1,0 +1,11 @@
+node_modules/
+.venv/
+__pycache__/
+.vercel/
+data/
+*.sqlite3*
+*.log
+*.snk
+.env*
+results/*.png
+results/*.html
